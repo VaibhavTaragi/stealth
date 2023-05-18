@@ -51,7 +51,7 @@ const AllItems = () => {
   };
 
   return (
-    <div className='bg-white p-4 mb-8 '>
+    <div className='bg-white p-4 mb-8 rounded-lg shadow-md'>
       <h1 className='font-bold text-lg mb-8 text-slate-700'>All items</h1>
       <table className="min-w-[1000px] divide-y divide-gray-200 text-slate-500">
       <thead>
